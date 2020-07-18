@@ -6,7 +6,7 @@ import useMainContext from 'src/utils/AppContext';
 const useStyles = makeStyles((theme) => ({
     MainWrapper: {
         paddingTop: theme.spacing(3),
-        height: '90%',
+        height: '80%',
     },
     MainGrid:{
         height: '100%',
